@@ -23,3 +23,6 @@ output_labels.txt
 
 retrained_graph.pb
 retrained_labels.txt
+
+*.docx
+*.pdf
